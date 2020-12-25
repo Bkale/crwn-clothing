@@ -1,0 +1,14 @@
+.sign-in {
+  // width: 380px; //Video Value
+  width: 450px; //My Value
+  display: flex;
+  flex-direction: column;
+
+  .title{
+    margin: 10px 0;
+  }
+  .buttons{
+    display: flex;
+    justify-content: space-between;
+  }
+}
