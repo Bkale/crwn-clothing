@@ -1,6 +1,6 @@
 import React from 'react';
 // DEV DEPENDENCIES
-import {connect, connet} from 'react-redux'
+import {connect} from 'react-redux'
 //ACTIONS
 import {addItem} from '../../redux/cart/cart.action'
 //Components
