@@ -1,7 +1,3 @@
-Complete React Developer in 2020 (w/ Redux, Hooks, GraphGL) 
------------------------------------------------------------
-
-crwn-clothing project (sections 5-6) - LOCAL IMAGES
 
 Local background images of categories and shop items are inside
 of the 'images/' directory.  
